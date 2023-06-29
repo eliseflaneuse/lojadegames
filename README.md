@@ -64,7 +64,6 @@ Você pode contribuir para o projeto seguindo os passos abaixo:
 ## Autora (Exercício da Generation Brasil)
 
 - Elise Flaneuse(https://github.com/eliseflaneuse))
-enciado sob a [Licença XYZ](URL da licença).
 
 ## Contato
 Para entrar em contato com a desenvolvedora do projeto, envie um email para [eliseflaneuse@gmail.com](mailto:eliseflaneuse@gmail.com) ou abra uma issue no repositório.
