@@ -14,7 +14,7 @@ leitura, atualização e exclusão de registros.
 
 ## Pré-requisitos
 Antes de executar o projeto, verifique se você possui os seguintes requisitos:
-- Java Development Kit (JDK) instalado na versão X.X.X ou superior.
+- Java Development Kit (JDK) instalado na versão 17.0.7 ou superior.
 - MySQL instalado e configurado.
 - Insomnia (ou outro software de teste de API) instalado.
 
